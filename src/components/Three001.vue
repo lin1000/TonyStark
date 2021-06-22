@@ -6,12 +6,6 @@
 <script>
 const THREE = require('three')
 /* eslint-disable no-unused-vars */
-  // canvasHeight;
-  // canvasWidth;
-  //var newscene;
-  //var renderer;
-  //var camera;
-  //var box;  // 定義各種共用的數據
 
  export default 
   {
